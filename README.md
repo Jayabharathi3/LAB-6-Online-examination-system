@@ -1,7 +1,9 @@
 # LAB-6-Online-examination-system
-### AIM:
+## AIM:
 To develop the Exam Registration System using Star UML tools.
-### PROBLEM STATEMENT
+
+## PROBLEM STATEMENT
+
 1. Exam Registration System is used in the effective registration of exams to all of the
 applicants. This system adopts a comprehensive approach to minimize the manual work and
 schedule resources, time in a coherent manner.
@@ -15,7 +17,31 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 5. The administrator after successful confirmation, initiates the process to generate the
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
-### UML DIAGRAMS:
+
+## UML DIAGRAMS:
+
+### USE CASE DIAGRAM
+![image](https://github.com/Jayabharathi3/LAB-6-Online-examination-system/assets/120367796/9f77d69d-feb8-4d13-a96e-cc981abfac15)
+
+
+### CLASS DIAGRAM
+![image](https://github.com/Jayabharathi3/LAB-6-Online-examination-system/assets/120367796/2996c65c-5084-4827-b949-fea655e8c22e)
+
+
+### ACTIVITY DIAGRAM
+![image](https://github.com/Jayabharathi3/LAB-6-Online-examination-system/assets/120367796/8512ba6a-ba22-41da-87e3-bf097bed06da)
+
+
+### SEQUENCE DIAGRAM
+![image](https://github.com/Jayabharathi3/LAB-6-Online-examination-system/assets/120367796/c491915b-9de6-40dd-9ce2-1d917550938e)
+
+
+### COMMUNICATION DIAGRAM
+![image](https://github.com/Jayabharathi3/LAB-6-Online-examination-system/assets/120367796/e866be29-8409-4ace-a5df-bd6b4fa9bdbc)
+
+
+### PACKAGE DIAGRAM
+![image](https://github.com/Jayabharathi3/LAB-6-Online-examination-system/assets/120367796/0face031-3f41-4aa6-ad77-0c0264f3af0f)
 
 
 
